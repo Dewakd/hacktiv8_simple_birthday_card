@@ -23,6 +23,10 @@ body{
     font-size: 200px;
     letter-spacing: -10px;
     color: pink;
+    background: black;
+    padding: 0 30px 0 20px;
+    border-radius: 5px;
+    margin-top: 20px;
 }
 
 .title-text p{
